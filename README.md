@@ -1,4 +1,4 @@
-# Novel Sulfonium Reagents for the Modular Synthesis of Spiro(2.3)hexanes
+# SpiroHexane4Bioisostere : Novel Sulfonium Reagents for the Modular Synthesis of Spiro[2.3]hexanes
 
 [![Python 3.13](https://img.shields.io/badge/python-3.13-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
@@ -6,13 +6,13 @@
 [![Multiwfn](https://img.shields.io/badge/Multiwfn-wavefunction%20analysis-red?style=for-the-badge&logo=electron&logoColor=white)](http://sobereva.com/multiwfn/)
 
 This repository contains the data, scripts, and workflows associated with the publication:
-**"Novel Sulfonium Reagents for the Modular Synthesis of Spiro(2.3)hexanes: Synthesis, Application, and Predictive Analytics Evaluation as Bioisosteres."**
+**"Novel Sulfonium Reagents for the Modular Synthesis of Spiro[2.3]hexanes and Heteroatom-Containing Analogues: Synthesis, Application, and Evaluation as Bioisosteres."**
 
 The project integrates **Python-based workflows** with **ORCA quantum chemistry calculations** and a few features from **MultiWFN** to enable reproducible and automatable analysis pipelines.
 
 ---
 
-- [Novel Sulfonium Reagents for the Modular Synthesis of Spiro(2.3)hexanes](#novel-sulfonium-reagents-for-the-modular-synthesis-of-spiro23hexanes)
+- [SpiroHexane4Bioisostere : Novel Sulfonium Reagents for the Modular Synthesis of Spiro\[2.3\]hexanes](#spirohexane4bioisostere--novel-sulfonium-reagents-for-the-modular-synthesis-of-spiro23hexanes)
   - [📘 Project Overview](#-project-overview)
   - [🔧 Methods and Tools](#-methods-and-tools)
     - [Programming Language](#programming-language)
@@ -36,7 +36,7 @@ The project integrates **Python-based workflows** with **ORCA quantum chemistry 
     - [Chemical space reducted by PCA](#chemical-space-reducted-by-pca)
     - [Clustering](#clustering)
     - [Free Gibbs Energy of reactions](#free-gibbs-energy-of-reactions)
-    - [Usefull pictures](#usefull-pictures)
+    - [Useful pictures](#useful-pictures)
   - [📚 Citation](#-citation)
   - [📜 License](#-license)
 
@@ -234,7 +234,7 @@ bash shell/dft_reactions.sh
 
 The resulted optimized structures are stored in [data/reactions](data/reactions) folder analogously to cores optimization.
 
-### Usefull pictures
+### Useful pictures
 
 Definitive figures for computational discussions were generated using [plot_clusters.ipynb](notebooks/plot_clusters.ipynb), [beautiful_cores.ipynb](notebooks/beautiful_cores.ipynb) and [gibbs.ipynb](notebooks/gibbs.ipynb) notebook files.
 Enjoy !
@@ -249,7 +249,7 @@ You can cite it in BibTeX format:
 
 ```bibtex
 @article{spirohexane4bioisostere2025,
-  title={Novel Sulfonium Reagents for the Modular Synthesis of Spiro(2.3)hexanes: Synthesis, Application, and Predictive Analytics Evaluation as Bioisosteres},
+  title={Novel Sulfonium Reagents for the Modular Synthesis of Spiro[2.3]hexanes and Heteroatom-Containing Analogues: Synthesis, Application, and Evaluation as Bioisosteres},
 }
 ```
 
