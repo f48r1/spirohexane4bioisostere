@@ -1,0 +1,10 @@
+rdkit==2024.9.6
+# numpy==2.3.5 # BUG this version will be installed automatically by rdkit
+pandas==2.3.3
+scikit_learn==1.7.2
+scikit_learn_extra==0.3.0.dev0
+matplotlib==3.10.7
+scipy==1.16.3
+
+py3Dmol==2.5.2
+svgutils==0.3.4

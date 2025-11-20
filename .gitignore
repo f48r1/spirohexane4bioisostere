@@ -16,3 +16,6 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
+# zip files created for the supporting information
+SI/
+*.zip
