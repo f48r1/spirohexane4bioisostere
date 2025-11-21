@@ -8,6 +8,9 @@
 This repository contains the data, scripts, and workflows associated with the publication:
 **"Novel Sulfonium Reagents for the Modular Synthesis of Spiro[2.3]hexanes and Heteroatom-Containing Analogues: Synthesis, Application, and Evaluation as Bioisosteres."**
 
+![spirohexane4bioisostere](./intro-github.svg)
+<img width="100%" height="auto" src="./intro-github.svg">
+
 The project integrates **Python-based workflows** with **ORCA quantum chemistry calculations** and a few features from **MultiWFN** to enable reproducible and automatable analysis pipelines.
 
 ---
